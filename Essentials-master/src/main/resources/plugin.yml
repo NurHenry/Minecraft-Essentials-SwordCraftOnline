@@ -1,0 +1,19 @@
+name: SCO-Essentials
+version: 1.0
+author: SenshuOnisan Henry
+main: de.sco.essential.Essentials
+commands:
+  build:
+  gm:
+  gamemode:
+  invsee:
+  msg:
+  tell:
+  r:
+  enderchest:
+  ec:
+  slots:
+  pl:
+  plugins:
+  help:
+  ?:
